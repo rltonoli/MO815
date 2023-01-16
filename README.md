@@ -4,6 +4,10 @@ Results are reported in the FinalReport.pdf file (Portuguese)
 
 ![Animated Skull](https://media.giphy.com/media/sYqfPLd1asj7a44HN7/giphy.gif)
 
+![Skull Slices](https://media.giphy.com/media/Qd8tYR7sd1zX1qKcys/giphy.gif)
+
+![Skull MIP](https://media.giphy.com/media/PWLjAiMItkEesQVfPL/giphy.gif)
+
 gedit/gcc:<br>
 Tarefa1e2.c<br>
 Tarefa4.c
